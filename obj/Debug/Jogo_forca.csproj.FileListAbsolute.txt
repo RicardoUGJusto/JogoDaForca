@@ -1,0 +1,8 @@
+C:\Users\fogac\source\repos\Jogo_forca\Jogo_forca\obj\Debug\Jogo_forca.csproj.AssemblyReference.cache
+C:\Users\fogac\source\repos\Jogo_forca\Jogo_forca\obj\Debug\Jogo_forca.csproj.SuggestedBindingRedirects.cache
+C:\Users\fogac\source\repos\Jogo_forca\Jogo_forca\obj\Debug\Jogo_forca.csproj.CoreCompileInputs.cache
+C:\Users\fogac\source\repos\Jogo_forca\Jogo_forca\bin\Debug\Jogo_forca.exe.config
+C:\Users\fogac\source\repos\Jogo_forca\Jogo_forca\bin\Debug\Jogo_forca.exe
+C:\Users\fogac\source\repos\Jogo_forca\Jogo_forca\bin\Debug\Jogo_forca.pdb
+C:\Users\fogac\source\repos\Jogo_forca\Jogo_forca\obj\Debug\Jogo_forca.exe
+C:\Users\fogac\source\repos\Jogo_forca\Jogo_forca\obj\Debug\Jogo_forca.pdb
